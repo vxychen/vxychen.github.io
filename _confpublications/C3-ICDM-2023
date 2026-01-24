@@ -1,0 +1,14 @@
+---
+title: 'Equipping Federated Graph Neural Networks with Structure-aware Group Fairness'
+collection: confpublications
+permalink: /publications/icdm-2023
+pubdate: '2023'
+venue: 'Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023)'
+authors: 'Nan Cui, Xiuling Wang, Wendy Hui Wang, Violet Chen, Yue Ning'
+---
+
+[Download paper here](https://ieeexplore.ieee.org/document/10415822/)
+
+**Keywords: graph neural networks, federated learning, group fairness**
+
+Graph Neural Networks (GNNs) are used for graph data processing across various domains. Centralized training of GNNs often faces challenges due to privacy and regulatory issues, making federated learning (FL) a preferred solution in a distributed paradigm. However, GNNs may inherit biases from training data, causing these biases to propagate to the global model in distributed scenarios. To address this issue, we introduce F2GNN, a Fair Federated Graph Neural Network, to enhance group fairness. Recognizing that bias originates from both data and algorithms, F2GNN aims to mitigate both types of bias under federated settings. We offer theoretical insights into the relationship between data bias and statistical fairness metrics in GNNs. Building on our theoretical analysis, F2GNN features a fairness-aware local model update scheme and a fairness-weighted global model update scheme, considering both data bias and local model fairness during aggregation. Empirical evaluations show F2GNN outperforms SOTA baselines in fairness and accuracy.
