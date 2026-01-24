@@ -3,7 +3,7 @@ title: 'Assessing Group Fairness with Social Welfare Optimization'
 collection: confpublications
 permalink: /publications/cpaior-2024
 pubdate: '2024'
-venue: 'Integration of Constraint Programming, Artificial Intelligence, and Operations Research 21st International Conference, CPAIOR 2024. Best Paper Award, CPAIOR 2024'
+venue: 'Integration of Constraint Programming, Artificial Intelligence, and Operations Research 21st International Conference (CPAIOR). Best Paper Award, CPAIOR 2024'
 authors: 'Violet (Xinying) Chen, J.N. Hooker, Derek Leben'
 ---
 
