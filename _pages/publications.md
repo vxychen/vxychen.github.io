@@ -28,13 +28,13 @@ author_profile: true
 
 ## Ongoing Projects
 
-Power gap and payment term in supply chains: how vertical and horizontal asymmetries shape fairness and efficiency
+Power Gap and Payment Term in Supply Chains: How Vertical and Horizontal Asymmetries Shape Fairness and Efficiency
 
-Designing end-to-end fairness optimization framework: from theory to practical insights
+Designing End-to-End Fairness Optimization Framework: from Theory to Practical Guidance
 
-Equity-centric fair pricing in shared micromobility systems
+Equity-Centric Fair Pricing in Shared Micromobility Systems
 
-Impact-aware sequential resource allocation
+Impact-Aware Sequential Resource Allocation
 
 <!-- ## Ongoing Projects
 
