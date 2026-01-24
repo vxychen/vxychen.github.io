@@ -20,13 +20,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Preprints under Review/in Preparation
+## Working Papers under Revision/Review
 
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Working Papers
+## Ongoing Projects
 
 {% for post in site.working reversed %}
   {% include archive-single.html %}
