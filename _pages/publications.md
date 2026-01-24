@@ -26,10 +26,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Ongoing Projects
+<!-- ## Ongoing Projects
 
 {% for post in site.working reversed %}
   {% include archive-single.html %}
-{% endfor %}
-
-<!--You can also find my articles on <u><a href="https://scholar.google.com/citations?authuser=1&user=t0m62eQAAAAJ">my Google Scholar profile</a>.</u>-->
+{% endfor %} -->
