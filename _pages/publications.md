@@ -22,9 +22,19 @@ author_profile: true
 
 ## Working Papers under Revision/Review
 
-{% for post in site.preprints reversed %}
+{% for post in site.preprints %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Ongoing Projects
+
+Power gap and payment term in supply chains: how vertical and horizontal asymmetries shape fairness and efficiency
+
+Designing end-to-end fairness optimization framework: from theory to practical insights
+
+Equity-centric fair pricing in shared micromobility systems
+
+Impact-aware sequential resource allocation
 
 <!-- ## Ongoing Projects
 
