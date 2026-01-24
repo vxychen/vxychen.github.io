@@ -3,7 +3,7 @@ title: 'Task as Context Prompting for Accurate Medical Symptom Coding Using Larg
 collection: confpublications
 permalink: /publications/chase-2025
 pubdate: '2025'
-venue: 'Proceedings of the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE '25)'
+venue: 'Proceedings of the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE ’25)'
 authors: 'Chengyang He, Wenlong Zhang, Violet Chen, Yue Ning, Ping Wang'
 ---
 
