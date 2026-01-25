@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in Analytics and Information Systems at [Stevens School of Business](https://www.stevens.edu/school-of-business). Before joining Stevens, I obtained my Ph.D. degree in Operations Research at [Tepper School of Business, Carnegie Mellon University](https://www.cmu.edu/tepper), where I was fortunate to be advised by Professor [John Hooker](http://public.tepper.cmu.edu/jnh). In addition, I obtained my B.S. degrees in Applied Mathematics and Business Administration from [Georgia Institute of Technology](https://www.gatech.edu). 
 
-My research interests are broadly related to fairness in optimization modeling and ethics in decision making. Some topics I am actively working on are: learning moral judgments and ethical preferences from people, end-to-end fairness optimization via decision-focused learning, fairness and equity in shared micromobility systems, structural understanding of fairness and efficiency symbiosis and tradeoffs, power gap and payment term in supply chain. 
+My research interests are broadly related to **fairness in optimization modeling and ethics in decision making**. Some topics I am actively working on are: learning moral judgments and ethical preferences from people, end-to-end fairness optimization via decision-focused learning, fairness and equity in shared micromobility systems, structural understanding of fairness and efficiency symbiosis and tradeoffs, power gap and payment term in supply chain. 
 
 <!--modeling fairness and equity in optimization, learning and inferring ethical preferences from people, social welfare perspectives of fairness in machine learning.-->
 
