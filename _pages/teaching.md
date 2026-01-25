@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Current teaching
-- **Data Analytics and Machine Learning** MIS637-D, Stevens Business Intelligence and Analytics Master program ([BI&A](https://www.stevens.edu/school-business/masters-programs/business-intelligence-analytics)) core course, Fall 2022
+- **Applied Models and Simulation** BT223, Undergraduate 
+- **Data Analytics and Machine Learning** MIS637, Graduate 
 
-### Previous teaching
+### Previous teaching during PhD Program
 #### As instructor
 - **Operations Management** 70-371, CMU undergraduate core course, Spring 2020
 #### As teaching assistant
